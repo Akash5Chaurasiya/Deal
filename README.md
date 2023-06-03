@@ -55,12 +55,6 @@ To get started with the project, you will need to clone the repository to your P
 - Wishlist Page and functionality.
 - Order management on admin side.
 
-## Contribution
-- Koushik Niyogi
-- Prabhat Kumar
-- Rajesh Pradhan
-- Prajit Santra
-- Aakash Chaurasiya
 
 ## Deployed Link :- [https://fast-deal.vercel.app/](https://fast-deal.vercel.app/)
 ## screenshot 
